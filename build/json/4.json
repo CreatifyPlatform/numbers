@@ -1,0 +1,19 @@
+{
+  "dna": "899c15e606a1dd0be1beb65740da85552e907b0f",
+  "name": "#4",
+  "description": "This is the description of your NFT project, remember to replace this",
+  "image": "ipfs://NewUriToReplace/4.png",
+  "edition": 4,
+  "date": 1632606011341,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "cloud"
+    },
+    {
+      "trait_type": "zero",
+      "value": "zero"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
